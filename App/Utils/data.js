@@ -3,6 +3,7 @@ export const data = [
     id: 1,
     post: {
       url: require('../Assets/video1.mov'),
+      url_: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     },
     user: {
       userId: 1,
@@ -18,6 +19,7 @@ export const data = [
     id: 2,
     post: {
       url: require('../Assets/video2.mov'),
+      url_: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
     },
     user: {
       userId: 2,
@@ -33,6 +35,7 @@ export const data = [
     id: 3,
     post: {
       url: require('../Assets/video3.mov'),
+      url_: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
     },
     user: {
       userId: 3,
@@ -48,6 +51,7 @@ export const data = [
     id: 4,
     post: {
       url: require('../Assets/video4.mov'),
+      url_: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
     },
     user: {
       userId: 4,
@@ -63,6 +67,7 @@ export const data = [
     id: 5,
     post: {
       url: require('../Assets/video5.mov'),
+      url_: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     },
     user: {
       userId: 5,
